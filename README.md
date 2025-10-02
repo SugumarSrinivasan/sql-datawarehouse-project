@@ -108,6 +108,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Sugumar Srinivasan**. I’m an IT professional on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Sugumar Srinivasan, a Data Engineering enthusiast who loves crafting scalable and reliable data pipelines that transform raw data into actionable insights and help businesses make better decisions. With a strong background in Big Data, Cloud, and DevOps, I enjoy solving complex data challenges, automating workflows, and building secure, efficient, and high-performing data platforms.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugumarsrinivasan/)
